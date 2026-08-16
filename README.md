@@ -7,5 +7,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sandiprimal03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sandiprimal03&theme=dark&hide_border=false)
-![Most Used Languages](https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=sandiprimal03&theme=dark&layout=compact&langs_count=10)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Most Used Languages](https://github-readme-stats-abc123.vercel.app/api/top-langs/?username=sandiprimal03&theme=dark&layout=compact&langs_count=10&count_private=true)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
